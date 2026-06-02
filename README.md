@@ -2,7 +2,7 @@
 
 Backend developer with **4+ years of experience in Java and SQL**. Currently expanding into full-stack with TypeScript, React, and Supabase.
 
-📍 Brazil | 🇧🇷 PT / 🇺🇸 EN (C2)
+📍 Brazil  |  🇧🇷 PT / 🇺🇸 EN (C2)
 
 ## 🛠 Stack
 
@@ -10,11 +10,17 @@ Java · SQL · Hibernate · TypeScript · React · Node.js · Supabase · Git
 
 ## 🚀 Featured projects
 
-<p align="left">
-  <a href="https://github.com/RafaVPDev/code-helper"><img width="278" src="https://github-readme-stats-beryl-beta-99.vercel.app/api/pin/?username=RafaVPDev&repo=code-helper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="code-helper"></a>
-  <a href="https://github.com/RafaVPDev/sera-que-vale"><img width="278" src="https://github-readme-stats-beryl-beta-99.vercel.app/api/pin/?username=RafaVPDev&repo=sera-que-vale&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="sera-que-vale"></a>
-  <a href="https://github.com/RafaVPDev/task-api"><img width="278" src="https://github-readme-stats-beryl-beta-99.vercel.app/api/pin/?username=RafaVPDev&repo=task-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="task-api"></a>
-</p>
+**Find the Bug** — AI-powered error analyzer. Paste any error message and get a clear diagnosis with fix and corrected code example. History saved per user.
+`Next.js · TypeScript · Groq (LLaMA 3.3) · Supabase Auth · PostgreSQL · Vercel`
+→ [Deploy](https://find-the-bug-mu.vercel.app/login) · [GitHub](https://github.com/RafaVPDev/code-helper)
+
+**Será que Vale?** — Interactive dashboard of Brazilian federal deputies' public spending. Real government data, dynamic charts, live spending counter.
+`React · TypeScript · Vite · Chart.js · Câmara dos Deputados API · Vercel`
+→ [Deploy](https://sera-que-vale.vercel.app) · [GitHub](https://github.com/RafaVPDev/sera-que-vale)
+
+**Task API** — RESTful task management API with JWT authentication and per-user ownership enforcement.
+`Java 21 · Spring Boot 3 · Spring Security · PostgreSQL · Hibernate · Maven`
+→ [GitHub](https://github.com/RafaVPDev/task-api)
 
 ## 📬 Contact
 
@@ -28,7 +34,7 @@ Java · SQL · Hibernate · TypeScript · React · Node.js · Supabase · Git
 
 Desenvolvedora backend com **4+ anos de experiência em Java e SQL**. Atualmente explorando o mundo full-stack com TypeScript, React e Supabase.
 
-📍 Primavera do Leste, MT | 🇧🇷 PT / 🇺🇸 EN (C2)
+📍 Primavera do Leste, MT  |  🇧🇷 PT / 🇺🇸 EN (C2)
 
 ## 🛠 Stack
 
@@ -36,11 +42,17 @@ Java · SQL · Hibernate · TypeScript · React · Node.js · Supabase · Git
 
 ## 🚀 Projetos em destaque
 
-<p align="left">
-  <a href="https://github.com/RafaVPDev/code-helper"><img width="278" src="https://github-readme-stats-beryl-beta-99.vercel.app/api/pin/?username=RafaVPDev&repo=code-helper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="code-helper"></a>
-  <a href="https://github.com/RafaVPDev/sera-que-vale"><img width="278" src="https://github-readme-stats-beryl-beta-99.vercel.app/api/pin/?username=RafaVPDev&repo=sera-que-vale&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="sera-que-vale"></a>
-  <a href="https://github.com/RafaVPDev/task-api"><img width="278" src="https://github-readme-stats-beryl-beta-99.vercel.app/api/pin/?username=RafaVPDev&repo=task-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="task-api"></a>
-</p>
+**Find the Bug** — Analisador de erros com IA. Cole qualquer mensagem de erro e receba diagnóstico, explicação e exemplo de correção. Histórico salvo por usuário.
+`Next.js · TypeScript · Groq (LLaMA 3.3) · Supabase Auth · PostgreSQL · Vercel`
+→ [Deploy](https://find-the-bug-mu.vercel.app/login) · [GitHub](https://github.com/RafaVPDev/code-helper)
+
+**Será que Vale?** — Dashboard interativo dos gastos parlamentares de deputados federais com dinheiro público. Dados reais do governo, gráficos dinâmicos e contador ao vivo.
+`React · TypeScript · Vite · Chart.js · API da Câmara dos Deputados · Vercel`
+→ [Deploy](https://sera-que-vale.vercel.app) · [GitHub](https://github.com/RafaVPDev/sera-que-vale)
+
+**Task API** — API REST de gerenciamento de tarefas com autenticação JWT e controle de propriedade por usuário.
+`Java 21 · Spring Boot 3 · Spring Security · PostgreSQL · Hibernate · Maven`
+→ [GitHub](https://github.com/RafaVPDev/task-api)
 
 ## 📬 Contato
 
