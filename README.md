@@ -12,15 +12,15 @@ Java · SQL · Hibernate · TypeScript · React · Node.js · Supabase · Git
 
 
   
-
-
+    
+  
+  
+    
+  
+  
+    
   
 
-
-  
-
-
-   🚀 [find-the-bug-mu.vercel.app](https://find-the-bug-mu.vercel.app/login)                 🚀 [sera-que-vale.vercel.app](https://sera-que-vale.vercel.app)                 _(API — no deploy)_
 
 ## 📬 Contact
 
@@ -44,15 +44,15 @@ Java · SQL · Hibernate · TypeScript · React · Node.js · Supabase · Git
 
 
   
-
-
+    
+  
+  
+    
+  
+  
+    
   
 
-
-  
-
-
-   🚀 [find-the-bug-mu.vercel.app](https://find-the-bug-mu.vercel.app/login)                 🚀 [sera-que-vale.vercel.app](https://sera-que-vale.vercel.app)                 _(API — sem deploy)_
 
 ## 📬 Contato
 
