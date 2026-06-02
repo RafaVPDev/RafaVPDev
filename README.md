@@ -2,7 +2,7 @@
 
 Backend developer with **4+ years of experience in Java and SQL**. Currently expanding into full-stack with TypeScript, React, and Supabase.
 
-📍 Brazil  |  🇧🇷 PT / 🇺🇸 EN (C2)
+📍 Brazil | 🇧🇷 PT / 🇺🇸 EN (C2)
 
 ## 🛠 Stack
 
@@ -10,17 +10,9 @@ Java · SQL · Hibernate · TypeScript · React · Node.js · Supabase · Git
 
 ## 🚀 Featured projects
 
-
-  
-    
-  
-  
-    
-  
-  
-    
-  
-
+[![code-helper](https://github-readme-stats.vercel.app/api/pin/?username=RafaVPDev&repo=code-helper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/code-helper)
+[![sera-que-vale](https://github-readme-stats.vercel.app/api/pin/?username=RafaVPDev&repo=sera-que-vale&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/sera-que-vale)
+[![task-api](https://github-readme-stats.vercel.app/api/pin/?username=RafaVPDev&repo=task-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/task-api)
 
 ## 📬 Contact
 
@@ -34,7 +26,7 @@ Java · SQL · Hibernate · TypeScript · React · Node.js · Supabase · Git
 
 Desenvolvedora backend com **4+ anos de experiência em Java e SQL**. Atualmente explorando o mundo full-stack com TypeScript, React e Supabase.
 
-📍 Primavera do Leste, MT  |  🇧🇷 PT / 🇺🇸 EN (C2)
+📍 Primavera do Leste, MT | 🇧🇷 PT / 🇺🇸 EN (C2)
 
 ## 🛠 Stack
 
@@ -42,17 +34,9 @@ Java · SQL · Hibernate · TypeScript · React · Node.js · Supabase · Git
 
 ## 🚀 Projetos em destaque
 
-
-  
-    
-  
-  
-    
-  
-  
-    
-  
-
+[![code-helper](https://github-readme-stats.vercel.app/api/pin/?username=RafaVPDev&repo=code-helper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/code-helper)
+[![sera-que-vale](https://github-readme-stats.vercel.app/api/pin/?username=RafaVPDev&repo=sera-que-vale&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/sera-que-vale)
+[![task-api](https://github-readme-stats.vercel.app/api/pin/?username=RafaVPDev&repo=task-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/task-api)
 
 ## 📬 Contato
 
