@@ -10,9 +10,9 @@ Java · SQL · Hibernate · TypeScript · React · Node.js · Supabase · Git
 
 ## 🚀 Featured projects
 
-[![code-helper](https://github-readme-stats.vercel.app/api/pin/?username=RafaVPDev&repo=code-helper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/code-helper)
-[![sera-que-vale](https://github-readme-stats.vercel.app/api/pin/?username=RafaVPDev&repo=sera-que-vale&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/sera-que-vale)
-[![task-api](https://github-readme-stats.vercel.app/api/pin/?username=RafaVPDev&repo=task-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/task-api)
+[![code-helper](https://github-readme-stats-eight.vercel.app/api/pin/?username=RafaVPDev&repo=code-helper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/code-helper)
+[![sera-que-vale](https://github-readme-stats-eight.vercel.app/api/pin/?username=RafaVPDev&repo=sera-que-vale&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/sera-que-vale)
+[![task-api](https://github-readme-stats-eight.vercel.app/api/pin/?username=RafaVPDev&repo=task-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/task-api)
 
 ## 📬 Contact
 
@@ -34,9 +34,9 @@ Java · SQL · Hibernate · TypeScript · React · Node.js · Supabase · Git
 
 ## 🚀 Projetos em destaque
 
-[![code-helper](https://github-readme-stats.vercel.app/api/pin/?username=RafaVPDev&repo=code-helper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/code-helper)
-[![sera-que-vale](https://github-readme-stats.vercel.app/api/pin/?username=RafaVPDev&repo=sera-que-vale&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/sera-que-vale)
-[![task-api](https://github-readme-stats.vercel.app/api/pin/?username=RafaVPDev&repo=task-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/task-api)
+[![code-helper](https://github-readme-stats-eight.vercel.app/api/pin/?username=RafaVPDev&repo=code-helper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/code-helper)
+[![sera-que-vale](https://github-readme-stats-eight.vercel.app/api/pin/?username=RafaVPDev&repo=sera-que-vale&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/sera-que-vale)
+[![task-api](https://github-readme-stats-eight.vercel.app/api/pin/?username=RafaVPDev&repo=task-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866)](https://github.com/RafaVPDev/task-api)
 
 ## 📬 Contato
 
