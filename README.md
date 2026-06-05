@@ -14,6 +14,10 @@ Java · SQL · Hibernate · TypeScript · React · Node.js · Supabase · Git
 `Next.js · TypeScript · Groq (LLaMA 3.3) · Supabase Auth · PostgreSQL · Vercel`
 → [Deploy](https://find-the-bug-mu.vercel.app/login) · [GitHub](https://github.com/RafaVPDev/code-helper)
 
+**Reserva Aí** — Full-stack booking platform for party venues. Clients browse venues, check availability, and submit reservations. Owners manage schedules, bookings, and payments through a role-based admin portal.
+`React · TypeScript · Vite · Supabase · PostgreSQL · Tailwind CSS · Vercel`
+→ [GitHub](https://github.com/RafaVPDev/espacoreserva)
+
 **Será que Vale?** — Interactive dashboard of Brazilian federal deputies' public spending. Real government data, dynamic charts, live spending counter.
 `React · TypeScript · Vite · Chart.js · Câmara dos Deputados API · Vercel`
 → [Deploy](https://sera-que-vale.vercel.app) · [GitHub](https://github.com/RafaVPDev/sera-que-vale)
@@ -45,6 +49,10 @@ Java · SQL · Hibernate · TypeScript · React · Node.js · Supabase · Git
 **Find the Bug** — Analisador de erros com IA. Cole qualquer mensagem de erro e receba diagnóstico, explicação e exemplo de correção. Histórico salvo por usuário.
 `Next.js · TypeScript · Groq (LLaMA 3.3) · Supabase Auth · PostgreSQL · Vercel`
 → [Deploy](https://find-the-bug-mu.vercel.app/login) · [GitHub](https://github.com/RafaVPDev/code-helper)
+
+**Reserva Aí** — Plataforma full-stack de reservas de espaços para festas. Clientes buscam locais, conferem disponibilidade e enviam pedidos de reserva. Proprietários gerenciam agendas, reservas e pagamentos por um painel administrativo com controle de acesso por perfil.
+`React · TypeScript · Vite · Supabase · PostgreSQL · Tailwind CSS · Vercel`
+→ [GitHub](https://github.com/RafaVPDev/espacoreserva)
 
 **Será que Vale?** — Dashboard interativo dos gastos parlamentares de deputados federais com dinheiro público. Dados reais do governo, gráficos dinâmicos e contador ao vivo.
 `React · TypeScript · Vite · Chart.js · API da Câmara dos Deputados · Vercel`
